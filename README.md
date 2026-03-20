@@ -1,45 +1,51 @@
-# Benjamín Pérez | Software Development & Visual Lettering
+<h1 align="center">Benjamín Pérez | Software Development & Visual Lettering</h1>
+
+###
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%E2%80%99s%20bad." />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
 </div>
 
-### Professional Profile
-I am a **Software Analysis & Programming student** at **DuocUC**. /codifying my dreams.
-
----
-
-## Technical Stack & Tooling
-
-| Category | Technologies |
-| :--- | :--- |
-| **Development** | Python, Bash, Shell Scripting, Git |
-| **Environment** | PowerShell, GitHub Actions |
-| **Visual Arts** | Adobe Photoshop, Procreate, Specialized Chicano Lettering |
-
----
-
-## Performance Metrics
+###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=santinocl&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <a href="www.linkedin.com/in/santinodev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/santinho.ttt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="bea.perezs@duocuc.cl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
-## Creative Practice
-As **@santinho.ttt**, I specialize in high-contrast custom typography and digital composition:
-- **Script Lettering:** Specialized custom typography and professional calligraphy.
-- **Digital Assets:** Design of information-dense visual backgrounds for professional communication.
-- **Visual Composition:** Merging geometric precision with artistic tradition.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SantinoCL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
----
+###
 
-## Contact & Network
-- **Instagram:** [@santinho.ttt](https://www.instagram.com/santinho.ttt)
-- **Location:** Santiago, Chile
+<div align="center">
+  <img height="280" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhcxm1l9wkbmh64xp2oya.png"  />
+</div>
 
----
-<p align="center">
-  <sub>Analista Programador Student | Santiago, CL</sub>
-</p>
+###
