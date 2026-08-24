@@ -36,10 +36,10 @@
 
 ###
 
-<h3 align="center">🚀 Proyecto Destacado</h3>
+<h3 align="center">Proyecto autodidacta.</h3>
 <p align="center">
-  Te invito a conocer mi trabajo en <b><a href="https://www.rosafuentes.cl" target="_blank">Rosa Fuentes</a></b>,<br>
-  <i>un sistema de gestión integral diseñado para agrupaciones folklóricas.</i>
+  Te invito a conocer mi trabajo en <b><a href="https://www.rosafuentes.cl" target="_blank">ASCD Rosa Fuentes</a></b>,<br>
+  <i>Landing page y portal interno diseñado a medida para agrupaciones folklóricas.</i>
 </p>
 
 ###
