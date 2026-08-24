@@ -37,12 +37,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SantinoCL&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
   <img height="280" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhcxm1l9wkbmh64xp2oya.png"  />
 </div>
 
